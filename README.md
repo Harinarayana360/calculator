@@ -22,4 +22,4 @@ This is an advanced calculator web application that performs basic arithmetic op
 # Calculator Output
 Here is the screenshot of the calculator:
 
-![calculator output](https://github.com/Harinarayana360/html-javascript-css-Calculator/blob/main/Sample%20Output.png)
+![calculator output](https://github.com/Harinarayana360/calculator/blob/main/Sample%20Output.png)
