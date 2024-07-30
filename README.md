@@ -7,8 +7,6 @@ This is an advanced calculator web application that performs basic arithmetic op
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
-- Advanced operations: square roots and squares.
-- Parentheses for grouping operations.
 - Clear and delete last entry functionality.
 - Stylish user interface with a modern design.
 
